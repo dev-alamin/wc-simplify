@@ -4,7 +4,7 @@
  * Plugin Name: Melli Pricing Extension
  * Plugin URI:  
  * Description: This is an extension of Melli.
- * Version:     1.0
+ * Version:     1.0.1
  * Author:      Al Amin
  * Author URI:  https://almn.me
  * Text Domain: melli
